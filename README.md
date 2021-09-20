@@ -16,7 +16,8 @@ Used to work as a tester in SAIC motor, Information Technology apartment.
 曾在上汽集团IT部实习，职务为测试员。
 
 ## Contact Information
+Linkdin: https://www.linkedin.com/in/%E5%AE%B6%E9%93%AD-%E8%AE%B8-59722521b/
 E-mail: jxx381026323@gmail.com                      
 Wechat: x381026323
-Please tell me who you are when using wechat.
+Please tell me who you are when using wechat.         
 在添加微信时请备注一下身份。
