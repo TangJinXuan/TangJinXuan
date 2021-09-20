@@ -1,4 +1,4 @@
-# About me
+# About me(非典型宅男的自我介绍)
 My name is Jiaming, a common student in Master of Engineering Project, University of Toronto. My major is Electric and Computer Science. 
 I'm planning to go back to China for future works two years later after graduation. I'm seeking for internship, feel free to contact me if you are interested in me.              
 
