@@ -5,7 +5,7 @@ I'm planning to go back to China for future works two years later after graduati
 我叫许家铭，正在多伦多大学攻读电气与计算机工程硕士学位。我计划在毕业后回中国工作，现在正在寻找实习机会，如果您对我有兴趣欢迎联系我。
 
 ## Education
-Master| Electric and Computer Science | University of Toronto               
+Master| Electrical and Computer Engineering | University of Toronto               
 Bachelor| Computer Science(Application) | Nanjing University                    
 
 硕士 | 电气与计算机工程 | 多伦多大学               
