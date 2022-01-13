@@ -3,14 +3,18 @@ My name is Jiaming, a common student in Master of Engineering Project, Universit
 I'm planning to go back to China for future works two years later after graduation. I'm seeking for internship, feel free to contact me if you are interested in me.⭐              
 
 我叫许家铭，正在多伦多大学攻读电气与计算机工程硕士学位。我计划在毕业后回中国工作，现在正在寻找实习机会，如果您对我有兴趣欢迎联系我。😊
+
+
 [![TangJinXuan's github stats](https://github-readme-stats.vercel.app/api?username=TangJinXuan&show_icons=true&counting_private=true&theme=buefy&include_all_commits=true)]
 
 ## Education
 Master| Electrical and Computer Engineering | University of Toronto               
 Bachelor| Computer Science(Application) | Nanjing University                    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangJinXuan)](https://github.com/anuraghazra/github-readme-stats)
 硕士 | 电气与计算机工程 | 多伦多大学               
 学士 | 计算机科学（应用方向） | 南京大学
+
+##Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangJinXuan)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Work experience
 Used to work as a tester in SAIC motor, Information Technology apartment.         
