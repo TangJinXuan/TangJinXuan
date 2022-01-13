@@ -13,7 +13,7 @@ Bachelor| Computer Science(Application) | Nanjing University
 硕士 | 电气与计算机工程 | 多伦多大学               
 学士 | 计算机科学（应用方向） | 南京大学
 
-##Language
+## Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangJinXuan)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Work experience
