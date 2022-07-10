@@ -14,7 +14,7 @@ Bachelor| Computer Science(Application) | Nanjing University
 学士 | 计算机科学（应用方向） | 南京大学
 
 ## Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangJinXuan)](https://github.com/anuraghazra/github-readme-stats)
+!Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=TangJinXuan)
 
 ## Work experience
 Used to work as a tester in SAIC motor, Information Technology apartment.         
